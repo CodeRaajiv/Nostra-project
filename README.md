@@ -20,7 +20,7 @@ Nostra is a modern and responsive online dress shopping website built using **HT
 - Responsive Web Design principles
 
 nostra-dress-shop/
-│
+
 ├── index.html
 
 ├── style.css
