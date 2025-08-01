@@ -8,9 +8,9 @@ Nostra is a modern and responsive online dress shopping website built using **HT
 - 🛍️ New Arrivals and Most Wanted dress sections
 - 📱 Fully responsive design for mobile, tablet, and desktop
 - 🔍 Search Bar and smooth navigation
-- 🧭 Interactive elements using JavaScript (e.g., sliders, menus)
+- 🧭 Interactive elements using JavaScript (e.g., sliders, Filter Checkbox)
 
-🌐Live Demo:https://forms.office.com/r/hYvqp9k9mi
+🌐Live Demo:https://coderaajiv.github.io/Nostra-project/
 
 🛠️ Technologies Used
 
