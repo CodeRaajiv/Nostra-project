@@ -1,0 +1,149 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: 'Poppins',sans-serif;
+}
+
+/*Main Navabar*/
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background-color: #fff;
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;  
+}
+
+.navbar__s2 {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  padding-right: 3%;
+}
+
+.navbar__s2 a {
+  text-decoration: none;
+  color: #1d232c;
+}
+
+.navbar__s2 a:hover {
+  text-decoration: underline;
+  color: #1d232c;
+}
+
+/*Contact form*/
+.Form__Container{
+    margin-top: 2%;
+    background-color: #1D232C;
+    color: #dddddd;
+    border-radius: 10px;
+    height: 800px;
+    width: 78%;
+    margin-left: 11.5%;
+}
+.Form__heading{
+    padding-top: 6%;
+    padding-left: 8%;
+}
+.Form__Container label{
+    display: block;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.Form__Container input{
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-left: 25px;
+    height: 50px;
+}
+  .Form__Container input[type="text"]{
+    width: 80%;
+    margin-left: 7.5%;
+  }
+  .Form__Container textarea{
+    width: 82.2%;
+    height: 130px;
+    margin-left: 7.5%;
+    border-radius: 5px;
+  }
+  .Form__Container input[type="submit"]{
+    display: block;
+    background-color: #0056b3;
+    text-align: center;
+    color: #ffff;
+    padding: 10px;
+    margin-top: 2%;
+    margin-left: 7.4%;
+    width: 8%;
+    height: 50px;
+    font-size: 20px;
+  }
+
+/*Nostra News*/
+.Nostra-News__container{
+    margin-top: 6%;
+}
+.Nostra-News__container h1{
+   text-align: center;
+   font-size: 50px;
+}
+.Nostra-News__container p{
+    padding-top: 0.60%;
+    text-align: center;
+    font-size: 32px;
+}
+.Nostra-News__container input{
+   margin-top: 1%;
+   margin-left: 7.8%; 
+   width: 84%;
+   height: 35px;
+   border-color: #1D232C;
+}
+.Nostra-News__btn{
+   margin-top: 2%;
+   margin-left: 43%;
+   background-color: #1D232C;
+   color:  #f0f0f0;
+   height: 50px;
+   width: 200px; 
+   border-radius: 11px;
+}
+.Nostra-News__btn p{
+    font-size: 30px;
+}
+.Nostra-News__btn i{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+/*Footer*/
+.Footer{
+    margin-top: 5%;
+    background-color: #1D232C;
+    height: 400px;
+    color: white;
+}
+.Footer h1{
+    padding-top: 35px;
+    padding-left: 35px;
+    font-size: 40px;
+}
+.Footer p{
+    padding-top: 5px;
+    padding-left: 35px;
+    font-size: 30px;
+}
+.Footer__icons{
+    padding-top: 20px;
+    padding-left: 75px;
+    font-size: 35px;
+}
+.Footer__last{
+    padding-top: 30px;
+    padding-left: 2px;
+}
